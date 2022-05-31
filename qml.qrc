@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BasicKeys.qml</file>
+        <file>AdvancedKeys.qml</file>
+        <file>AdvancedFunctions.qml</file>
+        <file>qtquickcontrols2.conf</file>
+        <file>GraphPlotPage.qml</file>
+        <file>UnitConverter.qml</file>
+        <file>Icons/drawable/outline_backspace_24.xml</file>
+        <file>Icons/drawable-hdpi/outline_backspace_white_18.png</file>
+        <file>Icons/drawable-hdpi/outline_backspace_white_24.png</file>
+        <file>Icons/drawable-hdpi/outline_backspace_white_36.png</file>
+        <file>Icons/drawable-hdpi/outline_backspace_white_48.png</file>
+        <file>Icons/drawable-mdpi/outline_backspace_white_18.png</file>
+        <file>Icons/drawable-mdpi/outline_backspace_white_24.png</file>
+        <file>Icons/drawable-mdpi/outline_backspace_white_36.png</file>
+        <file>Icons/drawable-mdpi/outline_backspace_white_48.png</file>
+        <file>Icons/drawable-xhdpi/outline_backspace_white_18.png</file>
+        <file>Icons/drawable-xhdpi/outline_backspace_white_24.png</file>
+        <file>Icons/drawable-xhdpi/outline_backspace_white_36.png</file>
+        <file>Icons/drawable-xhdpi/outline_backspace_white_48.png</file>
+        <file>Icons/drawable-xxhdpi/outline_backspace_white_18.png</file>
+        <file>Icons/drawable-xxhdpi/outline_backspace_white_24.png</file>
+        <file>Icons/drawable-xxhdpi/outline_backspace_white_36.png</file>
+        <file>Icons/drawable-xxhdpi/outline_backspace_white_48.png</file>
+        <file>Icons/drawable-xxxhdpi/outline_backspace_white_18.png</file>
+        <file>Icons/drawable-xxxhdpi/outline_backspace_white_24.png</file>
+        <file>Icons/drawable-xxxhdpi/outline_backspace_white_36.png</file>
+        <file>Icons/drawable-xxxhdpi/outline_backspace_white_48.png</file>
+        <file>Images/paper-edge-bottpm.png</file>
+        <file>Images/paper-edge-top.png</file>
+        <file>Images/paper-grip.png</file>
+        <file>functions.js</file>
+        <file>Toast.qml</file>
+        <file>ToastManager.qml</file>
+    </qresource>
+</RCC>
